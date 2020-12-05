@@ -1,0 +1,26 @@
+{
+  "name": "pki-example",
+  "version": "0.0.1",
+  "description": "A server app to demonstrate the PKI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingeCoder/PKI-example.git"
+  },
+  "keywords": [
+    "PKI"
+  ],
+  "author": "Binge Coders",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/BingeCoder/PKI-example/issues"
+  },
+  "homepage": "https://github.com/BingeCoder/PKI-example#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
